@@ -6,156 +6,156 @@
 	}
 	"Match Reset"
 	{
-		"es"			"Match Reset - Game is not live!"
+		"es"			"Reseteo de Partida - La partida no ha iniciado!"
 	}
 	"Half Reset"
 	{
-		"es"			"Match Half Reset - Game is not live!"
+		"es"			"Reseteo de Medio Tiempo - La partida no ha iniciado!"
 	}
 	"Half Time"
 	{
-		"es"			"Half Time! Please swap teams..."
+		"es"			"Medio Tiempo! Cambio de equipos..."
 	}
 	"Half Time Auto Swap"
 	{
-		"es"			"Half Time! Swapping teams..."
+		"es"			"Medio Tiempo! Cambiando equipos..."
 	}
 	"Full Time"
 	{
-		"es"			"Full Time!"
+		"es"			"Tiempo Completo!"
 	}
 	"Over Time"
 	{
 		"#format"		"{1:i}"
-		"es"			"Overtime! MR{1}"
+		"es"			"Sobretiempo! MR{1}"
 	}
 	"Over Time Sudden Death"
 	{
-		"es"			"Overtime! Sudden Death"
+		"es"			"Sobretiempo! Muerte Súbita"
 	}
 	"Playing Out Notice"
 	{
 		"#format"		"{1:i}"
-		"es"			"Note: All {1} rounds must be played out!"
+		"es"			"Nota: Todas las {1} rondas deben ser jugadas!"
 	}
 	"Ready"
 	{
-		"es"			"You have been marked as ready"
+		"es"			"Has sido marcado ready"
 	}
 	"Not Ready"
 	{
-		"es"			"You have been marked as not ready"
+		"es"			"Has sido marcado como unready"
 	}
 	"Score Overtime"
 	{
-		"es"			"Overtime: "
+		"es"			"Sobretiempo: "
 	}
 	"Score Overall"
 	{
-		"es"			"Overall: "
+		"es"			"General: "
 	}
 	"Knife Round Cancelled"
 	{
-		"es"			"Knife Round cancelled - Not Live"
+		"es"			"Ronda de cuchillos cancelada - La partida no ha iniciado"
 	}
 	"Knife Round Inactive"
 	{
-		"es"			"Knife Round is not active"
+		"es"			"Ronda de cuchillos no activa"
 	}
 	"Ready System Enabled"
 	{
-		"es"			"Ready System - Enabled"
+		"es"			"Sistema Ready - Activado"
 	}
 	"Ready System Disabled"
 	{
-		"es"			"Ready System - Disabled"
+		"es"			"Sistema Ready - Desactivado"
 	}
 	"Set Active"
 	{
-		"es"			"Set to Active"
+		"es"			"Activar"
 	}
 	"Set Inactive"
 	{
-		"es"			"Set to Inactive"
+		"es"			"Desactivar"
 	}
 	"Console Ready"
 	{
-		"es"			"Console cannot be marked as ready"
+		"es"			"La consola no se puede marcar como ready"
 	}
 	"Console Not Ready"
 	{
-		"es"			"Console cannot be marked as not ready"
+		"es"			"La consola no se puede marcar como unready"
 	}
 	"Not on Team"
 	{
-		"es"			"You are not on a team"
+		"es"			"No perteneces a un equipo"
 	}
 	"Already Ready"
 	{
-		"es"			"You have already been marked as ready"
+		"es"			"Ya has sido marcado como ready"
 	}
 	"Already Not Ready"
 	{
-		"es"			"You have already been marked as not ready"
+		"es"			"Ya has sido marcado como unready"
 	}
 	"Forced Ready"
 	{
-		"es"			"Forced all players ready"
+		"es"			"Forzar a todos los jugadores ready"
 	}
 	"Forced Not Ready"
 	{
-		"es"			"Forced all players unready"
+		"es"			"Forzar a todos los jugadores como unready"
 	}
 	"Forced Spectate"
 	{
-		"es"			"Forced all players to spectate"
+		"es"			"Forzar a todos los jugadores como espectadores"
 	}
 	"Match Not In Progress"
 	{
-		"es"			"Match is not in progress!"
+		"es"			"La partida no está en progreso!"
 	}
 	"T Winning"
 	{
 		"#format"		"{1:s}"
-		"es"			"{1} are winning"
+		"es"			"Están ganando {1}"
 	}
 	"Tied"
 	{
-		"es"			"Scores are tied"
+		"es"			"Empatados"
 	}
 	"CT Winning"
 	{
 		"#format"		"{1:s}"
-		"es"			"{1} are winning"
+		"es"			"Están ganando {1}"
 	}
 	"Change Teams Midgame"
 	{
-		"es"			"Blocked - Match is in progress"
+		"es"			"Bloqueado - La partida está en progreso"
 	}
 	"Maximum Players"
 	{
-		"es"			"Teams have reached the maximum player limit"
+		"es"			"Los equipos han alcanzado el límite de jugadores"
 	}
 	"Nightvision Blocked"
 	{
-		"es"			"Night vision is disabled"
+		"es"			"La visión nocturna está desactivada"
 	}
 	"Grenades Blocked"
 	{
-		"es"			"Grenades in warmup are disabled"
+		"es"			"Granadas en calentamiento desactivadas"
 	}
 	"Ready System"
 	{
-		"es"			"Ready System"
+		"es"			"Sistema Ready"
 	}
 	"Match Begin Msg"
 	{
 		"#format"		"{1:i}"
-		"es"			"Match will begin after {1} players are ready"
+		"es"			"La partida comenzará cuando {1} jugadores estén ready"
 	}
 	"No Players Found"
 	{
-		"es"			"No players found"
+		"es"			"No hay jugadores"
 	}
 	"Info Not Ready"
 	{
@@ -163,222 +163,222 @@
 	}
 	"Info Exit"
 	{
-		"es"			"Exit"
+		"es"			"Salir"
 	}
 	"Ready System Disabled2"
 	{
-		"es"			"The Ready System is not enabled"
+		"es"			"El Sistema Ready no está activado"
 	}
 	"ShowInfo Disabled"
 	{
-		"es"			"The Ready System display is not enabled"
+		"es"			"El panel de información del Sistema Ready no está activado"
 	}
 	"Match Is Live"
 	{
-		"es"			"The match is live"
+		"es"			"La partida ha comenzado"
 	}
 	"WarMod Inactive"
 	{
-		"es"			"WarMod is not active"
+		"es"			"WarMod desactivado"
 	}
 	"Change T Name"
 	{
 		"#format"		"{1:s}"
-		"es"			"Terrorists name set to '{1}'"
+		"es"			"Terroristas cambian de nombre a '{1}'"
 	}
 	"Change CT Name"
 	{
 		"#format"		"{1:s}"
-		"es"			"Counter-Terrorists name set to '{1}'"
+		"es"			"CT cambian de nombre a '{1}'"
 	}
 	"Console"
 	{
-		"es"			"Console: "
+		"es"			"Consola: "
 	}
 	"Available Commands"
 	{
-		"es"			"Available client commands"
+		"es"			"Comandos de cliente activados"
 	}
 	"No Permission"
 	{
-		"es"			"You do not have permission to use this command"
+		"es"			"No tienes permisos para utilizar ese comando"
 	}
 	"Set Minready"
 	{
 		"#format"		"{1:i}"
-		"es"			"wm_min_ready set to {1}"
+		"es"			"wm_min_ready puesto en {1}"
 	}
 	"Set Maxrounds"
 	{
 		"#format"		"{1:i}"
-		"es"			"wm_max_rounds set to {1}"
+		"es"			"wm_max_rounds puesto en {1}"
 	}
 	"WarMod Rcon Only"
 	{
-		"es"			"Admin commands have been restricted to RCON only"
+		"es"			"Los comandos de Admin han sido restringidos solo a RCON"
 	}
 	"Set Password"
 	{
 		"#format"		"{1:s}"
-		"es"			"sv_password set to '{1}'"
+		"es"			"sv_password puesto en '{1}'"
 	}
 	"Autokick"
 	{
-		"es"			"You have been automatically kicked from the server"
+		"es"			"Has sido kickeado automáticamente del servidor"
 	}
 	"Names Required"
 	{
-		"es"			"Match will not lo3 until both team names have been set"
+		"es"			"La partida no iniciará hasta que ambos equipos tengan nombres"
 	}
 	"Pause Freeze Time"
 	{
-		"es"			"Game will pause at freeze time"
+		"es"			"La partida entrará en pausa durante el tiempo de espera"
 	}
 	"Pause Round End"
 	{
-		"es"			"Game will pause at the end of the round"
+		"es"			"La partida entrará pausa al final de la ronda"
 	}
 	"Pause Limit"
 	{
-		"es"			"You have used all your pauses already"
+		"es"			"Ya han utilizado todas sus pausas"
 	}
 	"Pause Non-player"
 	{
-		"es"			"You must be on T or CT to use /pause"
+		"es"			"Debes estar en T o CT para utilizar el comando /pause"
 	}
 	"Pause Offer"
 	{
-		"es"			"have asked for a Pause. Please type /pause to pause the match"
+		"es"			"ha pedido Pausa. Por favor escribe /pause para pausar la partida"
 	}
 	"Pause Not Enabled"
 	{
-		"es"			"sv_pauseable is set to 0. Pause function not enabled"
+		"es"			"sv_pauseable está puesto en 0. La pausa esta desactivada."
 	}
 	"Unpause Notice"
 	{
-		"es"			"Match is now Paused. Please type /unpause to unpause the match"
+		"es"			"La Partida está en Pausa. Por favor escribe /unpause para reanudar la partida."
 	}
 	"Unpause Offer"
 	{
-		"es"			"have asked to unpause the game. Please type /unpause to unpause the match"
+		"es"			"ha pedido reanudar la partida. Por favor escribe /unpause para reanudar la partida."
 	}
 	"Unpaused Match"
 	{
-		"es"			"have unpaused the match"
+		"es"			"ha reanudado la partida"
 	}
 	"Unpause Non-player"
 	{
-		"es"			"You must be on T or CT to use /unpause"
+		"es"			"Debes estar en T o CT para usar /unpause"
 	}
 	"Pause Not Confirmed"
 	{
-		"es"			"Pause offer was not confirmed by the other team"
+		"es"			"La Pausa no ha sido confirmada por el otro equipo"
 	}
 	"Unpause Timer"
 	{
-		"es"			"seconds until game is auto unpaused"
+		"es"			"segundos para que la partida se reanude automáticamente"
 	}
 	"Unpause Auto"
 	{
-		"es"			"Match was auto Unpaused because time limit reached"
+		"es"			"La partida ha sido reanudada automáticamente, caducó el tiempo límite"
 	}
 	"Auto Pause Notice"
 	{
 		"#format"		"{1:s}"
-		"es"			"Match will be paused because a player from '{1}' has left the server"
+		"es"			"La partida será pausada ya que un jugador de '{1}' ha dejado el servidor"
 	}
 	"Auto Unpause Notice"
 	{
 		"#format"		"{1:s}"
-		"es"			"Match has been auto paused because a player from '{1}' has left the server"
+		"es"			"La partida ha sido pausada ya que un jugador de '{1}' ha dejado el servidor"
 	}
 	"Paused Via Rcon"
 	{
-		"es"			"Server is not paused or was paused via rcon"
+		"es"			"El servidor ha sido pausado a través de rcon"
 	}
 	"Knife Vote Team"
 	{
-		"es"			"are voting to stay or switch teams"
+		"es"			"están votando para quedarse o cambiar equipos"
 	}
 	"Knife Vote"
 	{
-		"es"			"Please type /stay or /switch"
+		"es"			"Por favor escribe /stay o /switch"
 	}
 	"Knife Stay"
 	{
-		"es"			"have voted to stay"
+		"es"			"han votado para quedarse"
 	}
 	"Knife Switch"
 	{
-		"es"			"have voted to switch teams"
+		"es"			"han votado para cambiar de equipos"
 	}
 	"Set Name CT"
 	{
-		"es"			"CT's please set team name"
+		"es"			"Por favor colocar nombre del equipo de CT"
 	}
 	"Set Name T"
 	{
-		"es"			"T's please set team name"
+		"es"			"Por favor colocar nombre del equipo de Terroristas"
 	}
 	"Set Name Both"
 	{
-		"es"			"Teams please set team name"
+		"es"			"Por favor colocar nombre a los equipos"
 	}
 	"Set Name CMD"
 	{
-		"es"			"To set team name please type /name TeamName"
+		"es"			"Para colocar nombre al equipo escribir /name NombreDelEquipo"
 	}
 	"Logos Required"
 	{
-		"es"			"Match will not lo3 until both team logos have been set"
+		"es"			"La partida no iniciará hasta que ambos equipos tengan logo"
 	}
 	"Set Logo CT"
 	{
-		"es"			"CT's please set team logo"
+		"es"			"Por favor colocar logo para CT"
 	}
 	"Set Logo T"
 	{
-		"es"			"T's please set team logo"
+		"es"			"Por favor colocar logo para Terroristas"
 	}
 	"Set Logo Both"
 	{
-		"es"			"Teams please set team logos"
+		"es"			"Por favor colocar logo a los equipos"
 	}
 	"Set Logo CMD"
 	{
-		"es"			"To set team logo please type /logo"
+		"es"			"Para colocar logo por favor escribir /logo"
 	}
 	"Live"
 	{
-		"es"			"The match is now LIVE!"
+		"es"			"La partida ha INICIADO!"
 	}
 	"Live on 3"
 	{
-		"es"			"Live on 3"
+		"es"			"Comienza en 3"
 	}
 	"Live on 2"
 	{
-		"es"			"Live on 2"
+		"es"			"Comienza en 2"
 	}
 	"Live on 1"
 	{
-		"es"			"Live on 1"
+		"es"			"Comienza en 1"
 	}
 	"Knife On 3"
 	{
-		"es"			"Knife on 3"
+		"es"			"Cuchillos en 3"
 	}
 	"Knife on 2"
 	{
-		"es"			"Knife on 2"
+		"es"			"Cuchillos en 2"
 	}
 	"Knife on 1"
 	{
-		"es"			"Knife on 1"
+		"es"			"Cuchillos en 1"
 	}
 	"Knife"
 	{
-		"es"			"KNIFE!"
+		"es"			"CUCHILLOS!"
 	}
 	"Zeus"
 	{
@@ -394,147 +394,147 @@
 	}
 	"Admin_Menu WarMod Commands"
 	{
-		"es"			"WarMod Commands"
+		"es"			"Comandos WarMod"
 	}
 	"Admin_Menu Enable ReadyUp"
 	{
-		"es"			"Enable ReadyUp"
+		"es"			"ReadyUp Activado"
 	}
 	"Admin_Menu Disable ReadyUp"
 	{
-		"es"			"Disable ReadyUp"
+		"es"			"ReadyUp Desactivado"
 	}
 	"Admin_Menu Knife"
 	{
-		"es"			"Knife"
+		"es"			"Cuchillos"
 	}
 	"Admin_Menu Force Start"
 	{
-		"es"			"Force Start"
+		"es"			"Forzar Inicio"
 	}
 	"Admin_Menu Force End"
 	{
-		"es"			"Force End"
+		"es"			"Forzar Fin"
 	}
 	"Admin_Menu Cancel Half"
 	{
-		"es"			"Cancel Half"
+		"es"			"Cancelar Media Ronda"
 	}
 	"Admin_Menu Cancel Match"
 	{
-		"es"			"Cancel Match"
+		"es"			"Cancelar Partida"
 	}
 	"Admin_Menu Cancel Knife"
 	{
-		"es"			"Cancel Knife"
+		"es"			"Cancelar Cuchillos"
 	}
 	"Admin_Menu ForceAllReady"
 	{
-		"es"			"Force All Ready"
+		"es"			"Forzar Todos Ready"
 	}
 	"Admin_Menu ForceAllUnready"
 	{
-		"es"			"Force All Unready"
+		"es"			"Forzar Todos Unready"
 	}
 	"Admin_Menu ForceAllSpectate"
 	{
-		"es"			"Force All Spectate"
+		"es"			"Forzar Todos como Espectadores"
 	}
 	"Admin_Menu Activate WarMod"
 	{
-		"es"			"Activate WarMod"
+		"es"			"Activar WarMod"
 	}
 	"Admin_Menu Deactivate WarMod"
 	{
-		"es"			"Deactivate WarMod"
+		"es"			"Desactivar WarMod"
 	}
 	"Warm Up Active"
 	{
-		"es"			"Warm Up Active"
+		"es"			"Calentamiento Activado"
 	}
 	"FTP Upload Failed"
 	{
-		"es"			"Failed uploading demo file. Check the server log files."
+		"es"			"No se pudo cargar el archivo de demo. Por favor revisar los logs del servidor."
 	}
 	"FTP Log Upload Successful"
 	{
-		"es"			"Log file uploaded successfully"
+		"es"			"Archivos de Logs cargados satisfactoriamente"
 	}
 	"FTP Demo Upload Successful"
 	{
-		"es"			"Demo uploaded successfully"
+		"es"			"Archivos de demo cargados satisfactoriamente"
 	}
 	"Veto Offer Not Confirmed"
 	{
-		"es"			"Veto offer was not confirmed by the other team"
+		"es"			"El Veto no fue confirmado por el otro equipo"
 	}
 	"Veto No Maps"
 	{
 		"#format"		"{1:i}"
-		"es"			"No maps in bo{1} list"
+		"es"			"No hay mapas en la lista bo{1}"
 	}
 	"Veto Bo3 Map List"
 	{
 		"#format"		"{1:s},{2:s},{3:s}"
-		"es"			"Map 1 = {1}, Map 2 = {2}, Map 3 = {3}"
+		"es"			"Mapa 1 = {1}, Mapa 2 = {2}, Mapa 3 = {3}"
 	}
 	"Veto Bo5 Map List"
 	{
 		"#format"		"{1:s},{2:s},{3:s},{4:s},{5:s}"
-		"es"			"Map 1 = {1}, Map 2 = {2}, Map 3 = {3}, Map 4 = {4}, Map 5 = {5}"
+		"es"			"Mapa 1 = {1}, Mapa 2 = {2}, Mapa 3 = {3}, Mapa 4 = {4}, Mapa 5 = {5}"
 	}
 	"Veto Bo2 Map List"
 	{
 		"#format"		"{1:s},{2:s}"
-		"es"			"Map 1 = {1}, Map 2 = {2}"
+		"es"			"Mapa 1 = {1}, Mapa 2 = {2}"
 	}
 	"Veto Disabled"
 	{
-		"es"			"Veto system is disabled"
+		"es"			"El Veto ha sido desactivado"
 	}
 	"Veto Non-player"
 	{
-		"es"			"You must be on Terrorist or Counter Terrorist to use !veto"
+		"es"			"Debes ser Terrorista o CT para usar !veto"
 	}
 	"Veto Offer"
 	{
 		"#format"		"{1:i}"
-		"es"			"have asked for a veto Bo{1}. Please type !veto to start"
+		"es"			"ha solicitado el veto de Bo{1}. Por favor escribe !veto para comenzar."
 	}
 	"Veto Captain"
 	{
-		"es"			"captain will be"
+		"es"			"el capitán será"
 	}
 	"Veto First Second"
 	{
-		"es"			"is picking to go first or second in the veto"
+		"es"			"está seleccionando si irá primero o segundo en el Veto"
 	}
 	"Non-player"
 	{
-		"es"			"You must be on Terrorist or Counter Terrorist to use this command"
+		"es"			"Debes ser Terrorista o CT para usar este comando"
 	}
 	"Default Offer"
 	{
-		"es"			"have asked for a default match. Please type !default to accept"
+		"es"			"ha pedido Default. Por favor escribe !default para aceptar."
 	}
 	"Default Offer Not Confirmed"
 	{
-		"es"			"Default offer was not confirmed by the other team"
+		"es"			"El otro equipo no aceptó el Default"
 	}
 	"PlayOut Offer"
 	{
-		"es"			"have asked for a play out match. Please type !playout to accept"
+		"es"			"ha solicitado que se juegue la partida. Por favor escribe !playout para aceptar."
 	}
 	"PlayOut Offer Not Confirmed"
 	{
-		"es"			"Play Out offer was not confirmed by the other team"
+		"es"			"La petición de jugar la partida no ha sido aceptada por el otro equipo"
 	}
 	"OverTime Offer"
 	{
-		"es"			"have asked for a over time match. Please type !overtime to accept"
+		"es"			"ha solicitado tiempo extra. Por favor escribe !overtime para aceptar."
 	}
 	"OverTime Offer Not Confirmed"
 	{
-		"es"			"Over Time offer was not confirmed by the other team"
+		"es"			"El Tiempo Extra no fue aceptado por el otro equipo"
 	}
 }
