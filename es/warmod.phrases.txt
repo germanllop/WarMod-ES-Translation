@@ -4,6 +4,10 @@
 	{
 		"es"			"Modo Seguro Activado. Funciones desactivadas."
 	}
+	"Practice Mode Active"
+	{
+		"es"                    "Modo Practica Activado"
+	}
 	"Match Reset"
 	{
 		"es"			"Reseteo de Partida - La partida no ha iniciado!"
@@ -117,7 +121,7 @@
 	"T Winning"
 	{
 		"#format"		"{1:s}"
-		"es"			"Están ganando {1}"
+		"es"			"Está ganando {1}"
 	}
 	"Tied"
 	{
@@ -126,7 +130,7 @@
 	"CT Winning"
 	{
 		"#format"		"{1:s}"
-		"es"			"Están ganando {1}"
+		"es"			"Está ganando {1}"
 	}
 	"Change Teams Midgame"
 	{
